@@ -7,3 +7,6 @@ import code
 code.printName()
 assert(code.addNums(40, 2) == 42)
 assert(code.multNums(11, 12) == 132)
+
+
+print "All Tests Passed!"
