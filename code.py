@@ -6,10 +6,10 @@ def printName():
 	print "Jerry Garcia"
 
 def addNums(x, y):
-	print (x + y)
+	return (x + y)
 
 def multNums(x, y):
-	print (x * y)
+	return (x * y)
 
 
 
